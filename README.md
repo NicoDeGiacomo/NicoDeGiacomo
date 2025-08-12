@@ -38,3 +38,4 @@ Outside of work, I enjoy pursuing new challenges — from solving programming pu
 * **Instagram:** [@nico.degiacomo](https://instagram.com/nico.degiacomo)
 * **LinkedIn:** [linkedin.com/in/nicolasdegiacomo](https://www.linkedin.com/in/nicolasdegiacomo)
 * **Ko-fi:** [https://ko-fi.com/nicolasdegiacomo](https://ko-fi.com/nicodegiacomo)
+* **Cafecito:** [https://cafecito.app/nicodegiacomo](https://cafecito.app/nicodegiacomo)
