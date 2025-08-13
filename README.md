@@ -66,7 +66,7 @@ Outside of work, I enjoy pursuing new challenges — from solving programming pu
 
 # 📫 Socials
 
-* **Instagram:** [@nico.degiacomo](https://instagram.com/nico.degiacomo)
+* **Instagram:** [@nicodegiacomo](https://instagram.com/nicodegiacomo)
 * **LinkedIn:** [linkedin.com/in/nicolasdegiacomo](https://www.linkedin.com/in/nicolasdegiacomo)
 
 If you like some of the projects I made or some of the articles I wrote, consider buying me a coffee!
