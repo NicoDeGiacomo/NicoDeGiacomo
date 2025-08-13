@@ -3,7 +3,7 @@
 **Senior Software Engineer** at [Mercado Libre](https://www.mercadolibre.com), specialized in backend technologies, performance, and scalability.
 I have over 10 years of experience building and maintaining high-impact systems for Latin America’s leading e-commerce platform.
 
-I work with technologies such as **Java, Go, Groovy, Python**, relational and NoSQL databases, search engines, and cloud platforms like **AWS, GCP, and Heroku**. My focus is on designing robust, scalable APIs that handle massive traffic, while ensuring maintainability and performance.
+I work with technologies such as **Java, Go, Groovy, Python**, relational and non-relational databases, search engines, and cloud platforms like **AWS, GCP and Azure**. My focus is on designing robust, scalable backend APIs that handle massive traffic, while ensuring maintainability and performance.
 
 Outside of work, I enjoy pursuing new challenges — from solving programming puzzles to learning languages, reading, playing chess, and exploring science communication.
 
