@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Nicolás De Giácomo
+# 👋 Hi, I’m Nico
 
 **Senior Software Engineer** at [Mercado Libre](https://www.mercadolibre.com), specialized in backend technologies, performance, and scalability.
 I have over 10 years of experience building and maintaining high-impact systems for Latin America’s leading e-commerce platform.
