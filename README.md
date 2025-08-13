@@ -20,7 +20,7 @@ Outside of work, I enjoy pursuing new challenges — from solving programming pu
 * **2024** – **[ewsolutions.netlify.app](https://ewsolutions.netlify.app/)**
   A frontend project showcasing design and implementation skills.
 
-* **2016 – Present** – **FIUBA Related Projects**
+* **2016 – Present** – **[FIUBA Related Projects](#-facultad-de-ingeniería-de-la-universidad-de-buenos-aires-fiuba)**
   Various academic projects in distributed systems, networking, and software engineering, developed during my Computer Software Engineering studies at the University of Buenos Aires.
 
 * **2015** – **[nico-games-ahorcado.netlify.app](https://nico-games-ahorcado.netlify.app/)**
