@@ -15,7 +15,7 @@ Outside of work, I enjoy pursuing new challenges — from solving programming pu
 
 # 🗂️ Projects
 
-* **2025** – **[Tiny Code Share](https://github.com/NicoDeGiacomo/tiny-code-share)**
+* **2025** – **[Tiny Code Share](https://www.tinycodeshare.app/)**
   A lightweight, open-source web app for sharing code snippets via URL encoding. Built with Next.js, Monaco Editor, and LZ-String.
 
 * **2024** – **[Advent of Code Solutions](https://github.com/NicoDeGiacomo/advent-of-code-2024)**
