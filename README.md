@@ -64,11 +64,11 @@ Outside of work, I enjoy pursuing new challenges — from solving programming pu
 * [Algoritmos y Programación I - Trabajo Práctico 1 - Reversi](https://github.com/NicoDeGiacomo/ALG1-TP1)
 
 
-# 📫 Connect with Me
+# 📫 Socials
 
 * **Instagram:** [@nico.degiacomo](https://instagram.com/nico.degiacomo)
 * **LinkedIn:** [linkedin.com/in/nicolasdegiacomo](https://www.linkedin.com/in/nicolasdegiacomo)
 
-I you like some of the projects I made or some of the articles I wrote, consider buying me a coffee!
+If you like some of the projects I made or some of the articles I wrote, consider buying me a coffee!
 * **Ko-fi:** [https://ko-fi.com/nicolasdegiacomo](https://ko-fi.com/nicodegiacomo)
 * **Cafecito:** [https://cafecito.app/nicodegiacomo](https://cafecito.app/nicodegiacomo)
