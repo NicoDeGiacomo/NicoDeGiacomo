@@ -33,18 +33,18 @@ Outside of work, I enjoy pursuing new challenges — from solving programming pu
   A simple basketball shooting game for the browser.
 
 # 🎓 Facultad de Ingeniería de la Universidad de Buenos Aires (FIUBA)
-* Sistemas Distribuidos I - Trabajo Práctico 1
-* Sistemas Distribuidos I - Trabajo Práctico 0
-* Redes - Trabajo Práctico 2
-* Redes - Trabajo Práctico 1
-* Teoría de Algoritmos - Trabajo Práctico 2
-* Teoría de Algoritmos - Trabajo Práctico 1
-* Probabilidad y Estadística B - TP1
-* Taller de Programación I - Trabajo Practico Final - Quantum Chess
-* Taller de Programación I - Ejercicio 3 - My Little Middleware
-* Taller de Programación I - Ejercicio 2 - Split-Apply-Combine
-* Taller de Programación I - Ejercicio 1 - Hangman
-* Taller de Programación I - Ejercicio 0 - Word Counter
+* [Sistemas Distribuidos I - Trabajo Práctico 1 - Failure-proof Data Pipeline](https://github.com/NicoDeGiacomo/DIST1-TP1)
+* [Sistemas Distribuidos I - Trabajo Práctico 0](https://github.com/NicoDeGiacomo/DIST1-TP0)
+* [Redes - Trabajo Práctico 2 - Software-Defined Networks](https://github.com/NicoDeGiacomo/REDES-TP2)
+* [Redes - Trabajo Práctico 1 - Mininet](https://github.com/NicoDeGiacomo/REDES-TP1)
+* [Teoría de Algoritmos - Trabajo Práctico 2](https://github.com/NicoDeGiacomo/TDA-TP2)
+* [Teoría de Algoritmos - Trabajo Práctico 1](https://github.com/NicoDeGiacomo/PROBA-TP1)
+* [Probabilidad y Estadística B - TP1](https://github.com/NicoDeGiacomo/PROBA-TP1)
+* [Taller de Programación I - Trabajo Practico Final - Quantum Chess](https://github.com/NicoDeGiacomo/TDP1-TPF)
+* [Taller de Programación I - Ejercicio 3 - My Little Middleware](https://github.com/NicoDeGiacomo/TDP1-EJ3)
+* [Taller de Programación I - Ejercicio 2 - Split-Apply-Combine](https://github.com/NicoDeGiacomo/TDP1-EJ2)
+* [Taller de Programación I - Ejercicio 1 - Hangman](https://github.com/NicoDeGiacomo/TDP1-EJ1)
+* [Taller de Programación I - Ejercicio 0 - Word Counter](https://github.com/NicoDeGiacomo/TDP1-EJ0)
 * [Algoritmos y Programación II - Trabajo Práctico 10 - Graph implementation + Random walks + Community labeling](https://github.com/NicoDeGiacomo/ALG2-TP3)
 * [Algoritmos y Programación II - Trabajo Práctico 9 - Tweets Pipeline Processing](https://github.com/NicoDeGiacomo/ALG2-TP2)
 * [Algoritmos y Programación II - Trabajo Práctico 8 - Binary Search Tree](https://github.com/NicoDeGiacomo/ALG2-ABB)
