@@ -7,9 +7,13 @@ I work with technologies such as **Java, Go, Groovy, Python**, relational and No
 
 Outside of work, I enjoy pursuing new challenges — from solving programming puzzles to learning languages, reading, playing chess, and exploring science communication.
 
+# 📜 Articles
+
+* [Picture perfect: Rethinking relationships in our database evolution](https://medium.com/mercadolibre-tech/picture-perfect-rethinking-relationships-in-our-database-evolution-08454d8f112a). Unraveling our transition to non-relational databases, a vibrant view of how pictures and products connect.
 
 
-# 📅 Projects
+
+# 🗂️ Projects
 
 * **2025** – **[Tiny Code Share](https://github.com/NicoDeGiacomo/tiny-code-share)**
   A lightweight, open-source web app for sharing code snippets via URL encoding. Built with Next.js, Monaco Editor, and LZ-String.
@@ -20,7 +24,7 @@ Outside of work, I enjoy pursuing new challenges — from solving programming pu
 * **2024** – **[ewsolutions.netlify.app](https://ewsolutions.netlify.app/)**
   A frontend project showcasing design and implementation skills.
 
-* **2016 – Present** – **[FIUBA Related Projects](#-facultad-de-ingeniería-de-la-universidad-de-buenos-aires-fiuba)**
+* **2016 – 2025** – **[FIUBA Related Projects](#-facultad-de-ingeniería-de-la-universidad-de-buenos-aires-fiuba)**
   Various academic projects in distributed systems, networking, and software engineering, developed during my Computer Software Engineering studies at the University of Buenos Aires.
 
 * **2015** – **[nico-games-ahorcado.netlify.app](https://nico-games-ahorcado.netlify.app/)**
