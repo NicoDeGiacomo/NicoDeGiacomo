@@ -1,19 +1,21 @@
 # 👋 Hi, I’m Nico
 
-**Senior Software Engineer** at [Mercado Libre](https://www.mercadolibre.com), specialized in backend technologies, performance, and scalability.
-I have over 10 years of experience building and maintaining high-impact systems for Latin America’s leading e-commerce platform.
+I'm  a **Staff Software Engineer** currently working at [Kavak](https://www.kavak.com/), and previously at [Mercado Libre](https://www.mercadolibre.com), specialized in backend technologies, performance, and scalability.
+I have over 10 years of experience building and maintaining high-impact systems for Latin America’s leading e-commerce platform. Feel free to take a look at my [LinkedIn](https://www.linkedin.com/in/nicolasdegiacomo) profile.
 
-I work with technologies such as **Java, Go, Groovy, Python**, relational and non-relational databases, search engines, and cloud platforms like **AWS, GCP and Azure**. My focus is on designing robust, scalable backend APIs that handle massive traffic, while ensuring maintainability and performance.
+I work with technologies such as **Java, Go, Groovy, Python, Node**, with relational and non-relational databases, search engines, and cloud platforms like **AWS, GCP and Azure**. My focus is on designing robust, scalable backend APIs that handle massive traffic, while ensuring maintainability and performance.
 
 Outside of work, I enjoy pursuing new challenges — from solving programming puzzles to learning languages, reading, playing chess, and exploring science communication.
 
 # 📜 Articles
 
+My own published articles.
+
 * [Picture perfect: Rethinking relationships in our database evolution](https://medium.com/mercadolibre-tech/picture-perfect-rethinking-relationships-in-our-database-evolution-08454d8f112a). Unraveling our transition to non-relational databases, a vibrant view of how pictures and products connect.
 
-
-
 # 🗂️ Projects
+
+Personal projects.
 
 * **2025** – **[Tiny Code Share](https://www.tinycodeshare.app/)**
   A lightweight, open-source web app for sharing code snippets via URL encoding. Built with Next.js, Monaco Editor, and LZ-String.
@@ -36,7 +38,10 @@ Outside of work, I enjoy pursuing new challenges — from solving programming pu
 * **2015** – **[nico-games-basket.netlify.app](https://nico-games-basket.netlify.app/)**
   A simple basketball shooting game for the browser.
 
-# 🎓 Facultad de Ingeniería de la Universidad de Buenos Aires (FIUBA)
+# 🎓 FIUBA
+
+University projects, assignments and resources from the Computer Software Engineering program at the Facultad de Ingeniería de la [Universidad de Buenos Aires (FIUBA)](https://www.fi.uba.ar/). 
+
 * [Sistemas Distribuidos I - Trabajo Práctico 1 - Failure-proof Data Pipeline](https://github.com/NicoDeGiacomo/DIST1-TP1)
 * [Sistemas Distribuidos I - Trabajo Práctico 0](https://github.com/NicoDeGiacomo/DIST1-TP0)
 * [Redes - Trabajo Práctico 2 - Software-Defined Networks](https://github.com/NicoDeGiacomo/REDES-TP2)
@@ -66,9 +71,16 @@ Outside of work, I enjoy pursuing new challenges — from solving programming pu
 
 # 📫 Socials
 
+Come follow me on social media!
+
 * **Instagram:** [@nicodegiacomo](https://instagram.com/nicodegiacomo)
 * **LinkedIn:** [linkedin.com/in/nicolasdegiacomo](https://www.linkedin.com/in/nicolasdegiacomo)
 
 If you like some of the projects I made or some of the articles I wrote, consider buying me a coffee!
+
 * **Ko-fi:** [https://ko-fi.com/nicolasdegiacomo](https://ko-fi.com/nicodegiacomo)
 * **Cafecito:** [https://cafecito.app/nicodegiacomo](https://cafecito.app/nicodegiacomo)
+
+# ✉️ Contact
+
+Feel free to reach out to me at nicolas.de.giacomo@gmail.com
