@@ -26,6 +26,9 @@ Personal projects.
 * **2024** – **[ewsolutions.netlify.app](https://ewsolutions.netlify.app/)**
   A frontend project showcasing design and implementation skills.
 
+<details>
+<summary>View More</summary>
+
 * **2016 – 2025** – **[FIUBA Related Projects](#-facultad-de-ingeniería-de-la-universidad-de-buenos-aires-fiuba)**
   Various academic projects in distributed systems, networking, and software engineering, developed during my Computer Software Engineering studies at the University of Buenos Aires.
 
@@ -38,9 +41,13 @@ Personal projects.
 * **2015** – **[nico-games-basket.netlify.app](https://nico-games-basket.netlify.app/)**
   A simple basketball shooting game for the browser.
 
+</details>
+<br>
+
 # 🎓 FIUBA
 
 University projects, assignments and resources from the Computer Software Engineering program at the Facultad de Ingeniería de la [Universidad de Buenos Aires (FIUBA)](https://www.fi.uba.ar/). 
+
 
 * [Sistemas Distribuidos I - Trabajo Práctico 1 - Failure-proof Data Pipeline](https://github.com/NicoDeGiacomo/DIST1-TP1)
 * [Sistemas Distribuidos I - Trabajo Práctico 0](https://github.com/NicoDeGiacomo/DIST1-TP0)
@@ -50,6 +57,10 @@ University projects, assignments and resources from the Computer Software Engine
 * [Teoría de Algoritmos - Trabajo Práctico 1](https://github.com/NicoDeGiacomo/PROBA-TP1)
 * [Probabilidad y Estadística B - TP1](https://github.com/NicoDeGiacomo/PROBA-TP1)
 * [Taller de Programación I - Trabajo Practico Final - Quantum Chess](https://github.com/NicoDeGiacomo/TDP1-TPF)
+
+<details>
+<summary>View More</summary>
+
 * [Taller de Programación I - Ejercicio 3 - My Little Middleware](https://github.com/NicoDeGiacomo/TDP1-EJ3)
 * [Taller de Programación I - Ejercicio 2 - Split-Apply-Combine](https://github.com/NicoDeGiacomo/TDP1-EJ2)
 * [Taller de Programación I - Ejercicio 1 - Hangman](https://github.com/NicoDeGiacomo/TDP1-EJ1)
@@ -68,6 +79,8 @@ University projects, assignments and resources from the Computer Software Engine
 * [Algoritmos y Programación I - Trabajo Práctico 2 - Supermarket](https://github.com/NicoDeGiacomo/ALG1-TP2)
 * [Algoritmos y Programación I - Trabajo Práctico 1 - Reversi](https://github.com/NicoDeGiacomo/ALG1-TP1)
 
+</details>
+<br>
 
 # 📫 Socials
 
@@ -80,3 +93,7 @@ If you like some of the projects I made or some of the articles I wrote, conside
 
 * **Ko-fi:** [https://ko-fi.com/nicolasdegiacomo](https://ko-fi.com/nicodegiacomo)
 * **Cafecito:** [https://cafecito.app/nicodegiacomo](https://cafecito.app/nicodegiacomo)
+
+# ✉️ Contact
+
+Feel free to reach out to me at the email provided in my profile.
