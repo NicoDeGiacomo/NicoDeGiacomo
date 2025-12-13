@@ -80,7 +80,3 @@ If you like some of the projects I made or some of the articles I wrote, conside
 
 * **Ko-fi:** [https://ko-fi.com/nicolasdegiacomo](https://ko-fi.com/nicodegiacomo)
 * **Cafecito:** [https://cafecito.app/nicodegiacomo](https://cafecito.app/nicodegiacomo)
-
-# ✉️ Contact
-
-Feel free to reach out to me at nicolas.de.giacomo@gmail.com
