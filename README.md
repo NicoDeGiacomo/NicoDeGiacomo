@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Nico
 
-I'm  a **Staff Software Engineer** currently working at [Kavak](https://www.kavak.com/), and previously at [Mercado Libre](https://www.mercadolibre.com), specialized in backend technologies, performance, and scalability.
+I'm  a **Staff Software Engineer / Technical Leader** currently working at [Kavak](https://www.kavak.com/), and previously at [Mercado Libre](https://www.mercadolibre.com), specialized in backend technologies, performance, and scalability.
 I have over 10 years of experience building and maintaining high-impact systems for Latin America’s leading e-commerce platform. Feel free to take a look at my [LinkedIn](https://www.linkedin.com/in/nicolasdegiacomo) profile.
 
 I work with technologies such as **Java, Go, Groovy, Python, Node**, with relational and non-relational databases, search engines, and cloud platforms like **AWS, GCP and Azure**. My focus is on designing robust, scalable backend APIs that handle massive traffic, while ensuring maintainability and performance.
