@@ -50,7 +50,6 @@ University projects, assignments and resources from the Computer Software Engine
 
 * [Taller de Seguridad Informática - Challenges](https://github.com/NicoDeGiacomo/SEGINF-CHALLENGES)
 * [Sistemas Distribuidos I - Trabajo Práctico 1 - Failure-proof Data Pipeline](https://github.com/NicoDeGiacomo/DIST1-TP1)
-* [Sistemas Distribuidos I - Trabajo Práctico 1 - Failure-proof Data Pipeline](https://github.com/NicoDeGiacomo/DIST1-TP1)
 * [Sistemas Distribuidos I - Trabajo Práctico 0](https://github.com/NicoDeGiacomo/DIST1-TP0)
 * [Redes - Trabajo Práctico 2 - Software-Defined Networks](https://github.com/NicoDeGiacomo/REDES-TP2)
 * [Redes - Trabajo Práctico 1 - Mininet](https://github.com/NicoDeGiacomo/REDES-TP1)
