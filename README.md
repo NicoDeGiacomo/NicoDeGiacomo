@@ -1,99 +1,98 @@
-# 👋 Hi, I’m Nico
+# Hey, I'm Nico 👋
 
-I'm  a **Staff Software Engineer / Technical Leader** currently working at [Kavak](https://www.kavak.com/), and previously at [Mercado Libre](https://www.mercadolibre.com), specialized in backend technologies, performance, and scalability.
-I have over 10 years of experience building and maintaining high-impact systems for Latin America’s leading e-commerce platform. Feel free to take a look at my [LinkedIn](https://www.linkedin.com/in/nicolasdegiacomo) profile.
+I'm a Staff Software Engineer / Technical Leader currently working at [Kavak](https://www.kavak.com/), and previously at [Mercado Libre](https://www.mercadolibre.com), specialized in backend technologies, performance, and scalability. I have over 11 years of experience building and maintaining high-impact systems.
 
-I work with technologies such as **Java, Go, Groovy, Python, Node**, with relational and non-relational databases, search engines, and cloud platforms like **AWS, GCP and Azure**. My focus is on designing robust, scalable backend APIs that handle massive traffic, while ensuring maintainability and performance.
+---
 
-Outside of work, I enjoy pursuing new challenges — from solving programming puzzles to learning languages, reading, playing chess, and exploring science communication.
+## 🛠️ What I Work With
 
-# 📜 Articles
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
-My own published articles.
+---
 
-* [Picture perfect: Rethinking relationships in our database evolution](https://medium.com/mercadolibre-tech/picture-perfect-rethinking-relationships-in-our-database-evolution-08454d8f112a). Unraveling our transition to non-relational databases, a vibrant view of how pictures and products connect.
+## 🚀 Projects
 
-# 🗂️ Projects
+* **[Tiny Code Share](https://www.tinycodeshare.app/)** — Share code snippets via URL encoding. No backend, no database — the code lives in the URL itself. Built with Next.js + Monaco Editor + LZ-String compression + URL Fragments.
 
-Personal projects.
-
-* **2025** – **[Tiny Code Share](https://www.tinycodeshare.app/)**
-  A lightweight, open-source web app for sharing code snippets via URL encoding. Built with Next.js, Monaco Editor, and LZ-String.
-
-* **2024** – **[Advent of Code Solutions](https://github.com/NicoDeGiacomo/advent-of-code)**
-  My solutions for the Advent of Code programming challenges.
-
-* **2024** – **[ewsolutions.netlify.app](https://ewsolutions.netlify.app/)**
-  A frontend project showcasing design and implementation skills.
+* **[Advent of Code Solutions](https://github.com/NicoDeGiacomo/advent-of-code)** — My yearly attempts.
 
 <details>
-<summary>View More</summary>
+<summary>Older stuff</summary>
 
-* **2016 – 2025** – **[FIUBA Related Projects](#-facultad-de-ingeniería-de-la-universidad-de-buenos-aires-fiuba)**
-  Various academic projects in distributed systems, networking, and software engineering, developed during my Computer Software Engineering studies at the University of Buenos Aires.
-
-* **2015** – **[nico-games-ahorcado.netlify.app](https://nico-games-ahorcado.netlify.app/)**
-  A web-based hangman game.
-
-* **2015** – **[nico-games-snake.netlify.app](https://nico-games-snake.netlify.app/)**
-  A classic Snake game implemented for the web.
-
-* **2015** – **[nico-games-basket.netlify.app](https://nico-games-basket.netlify.app/)**
-  A simple basketball shooting game for the browser.
+* **[ewsolutions.netlify.app](https://ewsolutions.netlify.app/)** — A frontend project for a friend's business.
+* **[Hangman](https://nico-games-ahorcado.netlify.app/)** — Classic word guessing game
+* **[Snake](https://nico-games-snake.netlify.app/)** — The Nokia classic
+* **[Basketball](https://nico-games-basket.netlify.app/)** — Simple shooting game
 
 </details>
-<br>
 
-# 🎓 Education
+---
 
-University projects, assignments and resources from the Computer Software Engineering program at the Facultad de Ingeniería de la Universidad de Buenos Aires ([FIUBA](https://www.fi.uba.ar/)). 
+## 📜 Articles
 
-* [Taller de Seguridad Informática - Challenges](https://github.com/NicoDeGiacomo/SEGINF-CHALLENGES)
-* [Sistemas Distribuidos I - Trabajo Práctico 1 - Failure-proof Data Pipeline](https://github.com/NicoDeGiacomo/DIST1-TP1)
-* [Sistemas Distribuidos I - Trabajo Práctico 0](https://github.com/NicoDeGiacomo/DIST1-TP0)
-* [Redes - Trabajo Práctico 2 - Software-Defined Networks](https://github.com/NicoDeGiacomo/REDES-TP2)
-* [Redes - Trabajo Práctico 1 - Mininet](https://github.com/NicoDeGiacomo/REDES-TP1)
-* [Teoría de Algoritmos - Trabajo Práctico 2](https://github.com/NicoDeGiacomo/TDA-TP2)
-* [Teoría de Algoritmos - Trabajo Práctico 1](https://github.com/NicoDeGiacomo/PROBA-TP1)
-* [Probabilidad y Estadística B - TP1](https://github.com/NicoDeGiacomo/PROBA-TP1)
-* [Taller de Programación I - Trabajo Practico Final - Quantum Chess](https://github.com/NicoDeGiacomo/TDP1-TPF)
+* [Picture perfect: Rethinking relationships in our database evolution](https://medium.com/mercadolibre-tech/picture-perfect-rethinking-relationships-in-our-database-evolution-08454d8f112a) — How we migrated from relational to non-relational databases at Mercado Libre, and the interesting problems we solved along the way.
 
-<details>
-<summary>View More</summary>
+---
 
-* [Taller de Programación I - Ejercicio 3 - My Little Middleware](https://github.com/NicoDeGiacomo/TDP1-EJ3)
-* [Taller de Programación I - Ejercicio 2 - Split-Apply-Combine](https://github.com/NicoDeGiacomo/TDP1-EJ2)
-* [Taller de Programación I - Ejercicio 1 - Hangman](https://github.com/NicoDeGiacomo/TDP1-EJ1)
-* [Taller de Programación I - Ejercicio 0 - Word Counter](https://github.com/NicoDeGiacomo/TDP1-EJ0)
-* [Algoritmos y Programación II - Trabajo Práctico 10 - Graph implementation + Random walks + Community labeling](https://github.com/NicoDeGiacomo/ALG2-TP3)
-* [Algoritmos y Programación II - Trabajo Práctico 9 - Tweets Pipeline Processing](https://github.com/NicoDeGiacomo/ALG2-TP2)
-* [Algoritmos y Programación II - Trabajo Práctico 8 - Binary Search Tree](https://github.com/NicoDeGiacomo/ALG2-ABB)
-* [Algoritmos y Programación II - Trabajo Práctico 7 - Moving Average](https://github.com/NicoDeGiacomo/ALG2-TP1)
-* [Algoritmos y Programación II - Trabajo Práctico 6 - Heap](https://github.com/NicoDeGiacomo/ALG2-HEAP)
-* [Algoritmos y Programación II - Trabajo Práctico 5 - Hash Map](https://github.com/NicoDeGiacomo/ALG2-HASH)
-* [Algoritmos y Programación II - Trabajo Práctico 4 - List](https://github.com/NicoDeGiacomo/ALG2-LISTA)
-* [Algoritmos y Programación II - Trabajo Práctico 3 - Queue](https://github.com/NicoDeGiacomo/ALG2-COLA)
-* [Algoritmos y Programación II - Trabajo Práctico 2 - Stack](https://github.com/NicoDeGiacomo/ALG2-PILA)
-* [Algoritmos y Programación II - Trabajo Práctico 1 - Vector](https://github.com/NicoDeGiacomo/ALG2-VECTOR)
-* [Algoritmos y Programación I - Trabajo Práctico 3 - Media Player](https://github.com/NicoDeGiacomo/ALG1-TP3)
-* [Algoritmos y Programación I - Trabajo Práctico 2 - Supermarket](https://github.com/NicoDeGiacomo/ALG1-TP2)
-* [Algoritmos y Programación I - Trabajo Práctico 1 - Reversi](https://github.com/NicoDeGiacomo/ALG1-TP1)
+## 🎓 University Projects
 
-</details>
-<br>
+Projects from my Computer Software Engineering studies at Facultad de Ingeniería de la Universidad de Buenos Aires ([FIUBA](https://www.fi.uba.ar/)). If you're a student or curious about distributed systems, networking, or algorithms, feel free to poke around.
 
-# 📫 Socials
+**Taller de Seguridad Informática - Bash**
+* [Challenges](https://github.com/NicoDeGiacomo/SEGINF-CHALLENGES)
 
-Come follow me on social media!
+**Sistemas Distribuidos - Go**
+* [TP1 – Failure-proof Data Pipeline](https://github.com/NicoDeGiacomo/DIST1-TP1)
+* [TP0 – Ejercicios](https://github.com/NicoDeGiacomo/DIST1-TP0)
 
-* **Instagram:** [@nicodegiacomo](https://instagram.com/nicodegiacomo)
-* **LinkedIn:** [linkedin.com/in/nicolasdegiacomo](https://www.linkedin.com/in/nicolasdegiacomo)
+**Redes - Python**
+* [TP2 – Software-Defined Networks](https://github.com/NicoDeGiacomo/REDES-TP2)
+* [TP1 – Mininet](https://github.com/NicoDeGiacomo/REDES-TP1)
 
-If you like some of the projects I made or some of the articles I wrote, consider buying me a coffee!
+**Teoría de Algoritmos - Python**
+* [TP2](https://github.com/NicoDeGiacomo/TDA-TP2)
+* [TP1](https://github.com/NicoDeGiacomo/TDA-TP1)
 
-* **Ko-fi:** [https://ko-fi.com/nicolasdegiacomo](https://ko-fi.com/nicodegiacomo)
-* **Cafecito:** [https://cafecito.app/nicodegiacomo](https://cafecito.app/nicodegiacomo)
+**Probabilidad y Estadística I - R**
+* [TP1](https://github.com/NicoDeGiacomo/PROBA-TP1)
 
-# ✉️ Contact
+**Taller de Programación I - C++**
+* [TPF – Quantum Chess](https://github.com/NicoDeGiacomo/TDP1-TPF)
+* [TP3 – My Little Middleware](https://github.com/NicoDeGiacomo/TDP1-EJ3)
+* [TP2 – Split-Apply-Combine](https://github.com/NicoDeGiacomo/TDP1-EJ2)
+* [TP1 – Hangman](https://github.com/NicoDeGiacomo/TDP1-EJ1)
+* [TP0 – Word Counter](https://github.com/NicoDeGiacomo/TDP1-EJ0)
 
-Feel free to reach out to me at the email provided in my profile.
+**Algoritmos y Programación II – C**
+* [TP10 – Graphs + Random walks + Community labeling](https://github.com/NicoDeGiacomo/ALG2-TP3)
+* [TP9 – Tweets Pipeline Processing](https://github.com/NicoDeGiacomo/ALG2-TP2)
+* [TP8 – Binary Search Tree](https://github.com/NicoDeGiacomo/ALG2-ABB)
+* [TP7 – Moving Average](https://github.com/NicoDeGiacomo/ALG2-TP1)
+* [TP6 – Heap](https://github.com/NicoDeGiacomo/ALG2-HEAP)
+* [TP5 – Hash Map](https://github.com/NicoDeGiacomo/ALG2-HASH)
+* [TP4 – List](https://github.com/NicoDeGiacomo/ALG2-LISTA)
+* [TP4 – Queue](https://github.com/NicoDeGiacomo/ALG2-COLA)
+* [TP2 – Stack](https://github.com/NicoDeGiacomo/ALG2-PILA)
+* [TP1 – Vector](https://github.com/NicoDeGiacomo/ALG2-VECTOR)
+
+**Algoritmos y Programación I – Python**
+* [TP3 – Media Player](https://github.com/NicoDeGiacomo/ALG1-TP3)
+* [TP2 – Supermarket](https://github.com/NicoDeGiacomo/ALG1-TP2)
+* [TP1 – Reversi](https://github.com/NicoDeGiacomo/ALG1-TP1)
+
+---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasdegiacomo)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/nicodegiacomo)
+
+If something I built helped you out, feel free to grab me a coffee:
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat&logo=kofi&logoColor=white)](https://ko-fi.com/nicodegiacomo)
+[![Cafecito](https://img.shields.io/badge/Cafecito-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://cafecito.app/nicodegiacomo)
