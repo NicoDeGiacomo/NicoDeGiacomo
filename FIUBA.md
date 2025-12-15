@@ -4,7 +4,6 @@ Trabajos prácticos y recursos de la carrera de Ingeniería en Informática en l
 
 Si sos estudiante y te sirve algo de lo que hice, ¡genial! Si tenés dudas, podés contactarme.
 
----
 
 ## Taller de Seguridad Informática
 
@@ -12,7 +11,6 @@ Si sos estudiante y te sirve algo de lo que hice, ¡genial! Si tenés dudas, pod
 
 * [Challenges](https://github.com/NicoDeGiacomo/SEGINF-CHALLENGES) — Desafíos estilo CTF
 
----
 
 ## Sistemas Distribuidos I
 
@@ -21,7 +19,6 @@ Si sos estudiante y te sirve algo de lo que hice, ¡genial! Si tenés dudas, pod
 * [TP1 – Failure-proof Data Pipeline](https://github.com/NicoDeGiacomo/DIST1-TP1) — Pipeline de datos tolerante a fallas
 * [TP0 – Ejercicios introductorios](https://github.com/NicoDeGiacomo/DIST1-TP0)
 
----
 
 ## Redes
 
@@ -30,7 +27,6 @@ Si sos estudiante y te sirve algo de lo que hice, ¡genial! Si tenés dudas, pod
 * [TP2 – Software-Defined Networks](https://github.com/NicoDeGiacomo/REDES-TP2) — Implementación de SDN
 * [TP1 – Mininet](https://github.com/NicoDeGiacomo/REDES-TP1) — Simulación de redes
 
----
 
 ## Teoría de Algoritmos
 
@@ -39,7 +35,6 @@ Si sos estudiante y te sirve algo de lo que hice, ¡genial! Si tenés dudas, pod
 * [TP2](https://github.com/NicoDeGiacomo/TDA-TP2)
 * [TP1](https://github.com/NicoDeGiacomo/TDA-TP1)
 
----
 
 ## Probabilidad y Estadística B
 
@@ -47,7 +42,6 @@ Si sos estudiante y te sirve algo de lo que hice, ¡genial! Si tenés dudas, pod
 
 * [TP1](https://github.com/NicoDeGiacomo/PROBA-TP1) — Análisis estadístico
 
----
 
 ## Taller de Programación I
 
@@ -59,7 +53,6 @@ Si sos estudiante y te sirve algo de lo que hice, ¡genial! Si tenés dudas, pod
 * [TP1 – Hangman](https://github.com/NicoDeGiacomo/TDP1-EJ1) — Ahorcado
 * [TP0 – Word Counter](https://github.com/NicoDeGiacomo/TDP1-EJ0) — Contador de palabras
 
----
 
 ## Algoritmos y Programación II
 
@@ -76,7 +69,6 @@ Si sos estudiante y te sirve algo de lo que hice, ¡genial! Si tenés dudas, pod
 * [TP2 – Pila](https://github.com/NicoDeGiacomo/ALG2-PILA)
 * [TP1 – Vector Dinámico](https://github.com/NicoDeGiacomo/ALG2-VECTOR)
 
----
 
 ## Algoritmos y Programación I
 
@@ -86,7 +78,6 @@ Si sos estudiante y te sirve algo de lo que hice, ¡genial! Si tenés dudas, pod
 * [TP2 – Supermarket](https://github.com/NicoDeGiacomo/ALG1-TP2) — Simulación de supermercado
 * [TP1 – Reversi](https://github.com/NicoDeGiacomo/ALG1-TP1) — Juego Reversi/Othello
 
----
 
 ## 📫 Contacto
 
@@ -100,6 +91,5 @@ Si algo de lo que hice te sirvió podés comprarme un café!
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat&logo=kofi&logoColor=white)](https://ko-fi.com/nicodegiacomo)
 [![Cafecito](https://img.shields.io/badge/Cafecito-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://cafecito.app/nicodegiacomo)
 
----
 
 [← Volver al perfil principal](README.md)

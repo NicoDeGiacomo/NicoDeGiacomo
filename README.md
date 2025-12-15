@@ -2,7 +2,6 @@
 
 I'm a Staff Software Engineer / Technical Leader currently working at [Kavak](https://www.kavak.com/), and previously at [Mercado Libre](https://www.mercadolibre.com), specialized in backend technologies, performance, and scalability. I have over 11 years of experience building and maintaining high-impact systems.
 
----
 
 ## 🛠️ What I Work With
 
@@ -13,7 +12,6 @@ I'm a Staff Software Engineer / Technical Leader currently working at [Kavak](ht
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
----
 
 ## 🚀 Projects
 
@@ -31,13 +29,11 @@ I'm a Staff Software Engineer / Technical Leader currently working at [Kavak](ht
 
 </details>
 
----
 
 ## 📜 Articles
 
 * [Picture perfect: Rethinking relationships in our database evolution](https://medium.com/mercadolibre-tech/picture-perfect-rethinking-relationships-in-our-database-evolution-08454d8f112a) — How we migrated from relational to non-relational databases at Mercado Libre, and the interesting problems we solved along the way.
 
----
 
 ## 🎓 University Projects
 
@@ -48,9 +44,8 @@ Highlights from my Computer Software Engineering studies at [FIUBA](https://www.
 * **[Software-Defined Networks](https://github.com/NicoDeGiacomo/REDES-TP2)** `Python` — SDN implementation with OpenFlow
 * **[Security Challenges](https://github.com/NicoDeGiacomo/SEGINF-CHALLENGES)** `Bash` — CTF-style security exercises
 
-> 🇦🇷 **¿Sos estudiante de FIUBA?** → [Ver todos los trabajos prácticos en español](FIUBA.md)
+> 🇦🇷 **¿Sos estudiante de FIUBA?** → [Ver todos los trabajos prácticos.](FIUBA.md)
 
----
 
 ## 🤝 Let's Connect
 
