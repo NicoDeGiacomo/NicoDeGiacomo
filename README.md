@@ -46,7 +46,7 @@ Personal projects.
 
 # 🎓 FIUBA
 
-University projects, assignments and resources from the Computer Software Engineering program at the Facultad de Ingeniería de la [Universidad de Buenos Aires (FIUBA)](https://www.fi.uba.ar/). 
+University projects, assignments and resources from the Computer Software Engineering program at the Facultad de Ingeniería de la Universidad de Buenos Aires ([FIUBA](https://www.fi.uba.ar/)). 
 
 * [Taller de Seguridad Informática - Challenges](https://github.com/NicoDeGiacomo/SEGINF-CHALLENGES)
 * [Sistemas Distribuidos I - Trabajo Práctico 1 - Failure-proof Data Pipeline](https://github.com/NicoDeGiacomo/DIST1-TP1)
