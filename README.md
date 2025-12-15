@@ -44,7 +44,7 @@ Personal projects.
 </details>
 <br>
 
-# 🎓 FIUBA
+# 🎓 Education
 
 University projects, assignments and resources from the Computer Software Engineering program at the Facultad de Ingeniería de la Universidad de Buenos Aires ([FIUBA](https://www.fi.uba.ar/)). 
 
