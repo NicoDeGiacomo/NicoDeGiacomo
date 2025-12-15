@@ -41,49 +41,14 @@ I'm a Staff Software Engineer / Technical Leader currently working at [Kavak](ht
 
 ## 🎓 University Projects
 
-Projects from my Computer Software Engineering studies at Facultad de Ingeniería de la Universidad de Buenos Aires ([FIUBA](https://www.fi.uba.ar/)). If you're a student or curious about distributed systems, networking, or algorithms, feel free to poke around.
+Highlights from my Computer Software Engineering studies at [FIUBA](https://www.fi.uba.ar/):
 
-**Taller de Seguridad Informática - Bash**
-* [Challenges](https://github.com/NicoDeGiacomo/SEGINF-CHALLENGES)
+* **[Quantum Chess](https://github.com/NicoDeGiacomo/TDP1-TPF)** `C++` — Chess variant with quantum mechanics rules, multiplayer support
+* **[Failure-proof Data Pipeline](https://github.com/NicoDeGiacomo/DIST1-TP1)** `Go` — Distributed systems with fault tolerance
+* **[Software-Defined Networks](https://github.com/NicoDeGiacomo/REDES-TP2)** `Python` — SDN implementation with OpenFlow
+* **[Security Challenges](https://github.com/NicoDeGiacomo/SEGINF-CHALLENGES)** `Bash` — CTF-style security exercises
 
-**Sistemas Distribuidos - Go**
-* [TP1 – Failure-proof Data Pipeline](https://github.com/NicoDeGiacomo/DIST1-TP1)
-* [TP0 – Ejercicios](https://github.com/NicoDeGiacomo/DIST1-TP0)
-
-**Redes - Python**
-* [TP2 – Software-Defined Networks](https://github.com/NicoDeGiacomo/REDES-TP2)
-* [TP1 – Mininet](https://github.com/NicoDeGiacomo/REDES-TP1)
-
-**Teoría de Algoritmos - Python**
-* [TP2](https://github.com/NicoDeGiacomo/TDA-TP2)
-* [TP1](https://github.com/NicoDeGiacomo/TDA-TP1)
-
-**Probabilidad y Estadística I - R**
-* [TP1](https://github.com/NicoDeGiacomo/PROBA-TP1)
-
-**Taller de Programación I - C++**
-* [TPF – Quantum Chess](https://github.com/NicoDeGiacomo/TDP1-TPF)
-* [TP3 – My Little Middleware](https://github.com/NicoDeGiacomo/TDP1-EJ3)
-* [TP2 – Split-Apply-Combine](https://github.com/NicoDeGiacomo/TDP1-EJ2)
-* [TP1 – Hangman](https://github.com/NicoDeGiacomo/TDP1-EJ1)
-* [TP0 – Word Counter](https://github.com/NicoDeGiacomo/TDP1-EJ0)
-
-**Algoritmos y Programación II – C**
-* [TP10 – Graphs + Random walks + Community labeling](https://github.com/NicoDeGiacomo/ALG2-TP3)
-* [TP9 – Tweets Pipeline Processing](https://github.com/NicoDeGiacomo/ALG2-TP2)
-* [TP8 – Binary Search Tree](https://github.com/NicoDeGiacomo/ALG2-ABB)
-* [TP7 – Moving Average](https://github.com/NicoDeGiacomo/ALG2-TP1)
-* [TP6 – Heap](https://github.com/NicoDeGiacomo/ALG2-HEAP)
-* [TP5 – Hash Map](https://github.com/NicoDeGiacomo/ALG2-HASH)
-* [TP4 – List](https://github.com/NicoDeGiacomo/ALG2-LISTA)
-* [TP4 – Queue](https://github.com/NicoDeGiacomo/ALG2-COLA)
-* [TP2 – Stack](https://github.com/NicoDeGiacomo/ALG2-PILA)
-* [TP1 – Vector](https://github.com/NicoDeGiacomo/ALG2-VECTOR)
-
-**Algoritmos y Programación I – Python**
-* [TP3 – Media Player](https://github.com/NicoDeGiacomo/ALG1-TP3)
-* [TP2 – Supermarket](https://github.com/NicoDeGiacomo/ALG1-TP2)
-* [TP1 – Reversi](https://github.com/NicoDeGiacomo/ALG1-TP1)
+> 🇦🇷 **¿Sos estudiante de FIUBA?** → [Ver todos los trabajos prácticos en español](FIUBA.md)
 
 ---
 
